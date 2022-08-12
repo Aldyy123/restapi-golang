@@ -5,7 +5,7 @@
 
 1. Clone the repository from the repository source
     ```cli
-    git clone https://github.com/
+    git clone https://github.com/Aldyy123/restapi-golang.git
     ```
 2. You can running the server with command terminal
     ```bash
